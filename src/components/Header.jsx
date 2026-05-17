@@ -28,7 +28,7 @@ export default function Header({ theme }) {
             WeatherX
           </h1>
           <p className="text-[11px] text-white/35 mt-0.5">
-            Weather Intelligence Dashboard
+            Weather Intelligence Dashboard- Developed by Aditya Kumar
           </p>
         </div>
       </div>
